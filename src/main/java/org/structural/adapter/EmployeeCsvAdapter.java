@@ -20,5 +20,5 @@ public class EmployeeCsvAdapter implements Employee {
     public String getLastName() {
         return employeeCsv.L_name;
     }
-    
+
 }
